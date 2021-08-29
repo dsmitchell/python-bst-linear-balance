@@ -1,7 +1,8 @@
-from hashtable import HashTable
 import random
 import timeit
 import unittest
+
+from hashtable import HashTable
 
 
 class TestHashTable(unittest.TestCase):

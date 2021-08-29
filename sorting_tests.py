@@ -1,7 +1,8 @@
 import random
-import sorting
 import timeit
 import unittest
+
+import sorting
 
 
 class TestSorting(unittest.TestCase):

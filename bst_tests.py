@@ -1,7 +1,8 @@
-from bst import Bst, BstNodeFindLocation
 import random
 import timeit
 import unittest
+
+from bst import Bst, BstNodeFindLocation
 
 
 class TestBst(unittest.TestCase):

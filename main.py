@@ -1,11 +1,12 @@
 # This is a sample Python script.
 import logging
-import unittest
+
 import useful_tools
 from bst_tests import TestBst, perform_balance, profile_bst_balance
 from hashtable_tests import TestHashTable, profile_hashtable
-from sorting_tests import TestSorting
 from sorting import bubble_sort, merge_sort
+from sorting_tests import TestSorting
+
 
 # Press ⌃R to execute it or replace it with your code.
 # Press Double ⇧ to search everywhere for classes, files, tool windows, actions, and settings.

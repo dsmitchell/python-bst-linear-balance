@@ -1,6 +1,7 @@
 import logging
-from call_counter import CallCounter
 from enum import Enum
+
+from call_counter import CallCounter
 
 # Configure bst logging
 logger = logging.getLogger(__name__)
